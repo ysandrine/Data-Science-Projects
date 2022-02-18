@@ -14,5 +14,4 @@ Ainsi, nous analyserons et expliciterons dans des sous-parties, les suggestions,
 Nous allons de même implémenter quelques unes de nos suggestions.
 Vous trouverez les détails des analyses dans notre rapport.
 
-Vous trouverez le fichier que nous avons push depuis la machine virtuelle Ubuntu dans le dossier source. 
 
