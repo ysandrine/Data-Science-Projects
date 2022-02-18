@@ -12,4 +12,4 @@ Multiple models were tested during this challenge (Linear Regression, Gradient B
 
 More detailed explanations (with a couple of plots) has been written in French.
 -->[French Explanations PDF](https://github.com/alexattia/Online-Challenge/blob/master/KaggleBikeSharing/Kaggle_BikeSharing_Explanations_French.pdf)
-
+Merci Charlotte !
